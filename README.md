@@ -45,6 +45,4 @@ Developed by:ASHWIN H RegisterNumber:25005962
 
 RESULT:Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
-**TRUTH TABLE**
 
-**RESULTS**
